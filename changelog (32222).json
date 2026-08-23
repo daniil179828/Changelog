@@ -1,40 +1,13 @@
-﻿[
+[
   {
-    "version": "1.1.0",
-    "date": "Aug 22, 2026",
+    "version": "v.",
+    "date": "Aug 23, 2026",
     "isNew": true,
     "items": [
-      "[+] Updated UI",
-      "[+] New Music Player",
-      "[~] Bug Fix"
-    ]
-  },
-  {
-    "version": "1.0.9",
-    "date": "Aug 22, 2026",
-    
-    "items": [
-      "[+] Launcher",
-      "[+] Configs For Games In Launcher",
-      "[~] Bug Fix"
-    ]
-  },
-  {
-    "version": "1.0.8",
-    "date": "Aug 19, 2026",
-    "items": [
-      "[+] Some change in ui",
-      "[+] Music Player",
-      "[~] Bug Fix"
-    ]
-  },
-  {
-    "version": "1.0.7",
-    "date": "Aug 13, 2026",
-    "items": [
-      "[+] Engine Chams",
-      "[+] China Hat",
-      "[+] Ui Updates"
+      "[+] ",
+      "[+] ",
+      "[-] ",
+      "[~] "
     ]
   }
 ]
