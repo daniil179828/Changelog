@@ -1,8 +1,18 @@
 [
   {
     "version": "v.1.2.0",
+    "roblox": "version-17d504d2c9544583",
+    "date": "Aug 26, 2026",
+    "isNew": false,
+    "items": [
+      "[+] update for version-17d504d2c9544583"
+      "qwley"
+    ]
+  },
+  {
+    "version": "v.1.2.0",
     "roblox": "version-ddf602d9cfe44005",
-    "date": "Aug, 2026",
+    "date": "Aug 24, 2026",
     "isNew": true,
     "items": [
       "[+] new launcher ",
@@ -12,4 +22,3 @@
     ]
   }
 ]
-
