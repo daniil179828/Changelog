@@ -1,5 +1,18 @@
 [
   {
+    "version": "v.1.3.0",
+    "roblox": "version-latest",
+    "date": "Sept 20, 2026",
+    "isNew": true,
+    "items": [
+      "[+] Shaders module updated",
+      "[+] Bug fixes",
+      "[+] Launcher updated",
+      "[+] Module now works on all Roblox versions",
+      "❤️"
+    ]
+  },
+  {
     "version": "v.1.2.0",
     "roblox": "version-4310300497aa4917",
     "date": "Sept 15, 2026",
