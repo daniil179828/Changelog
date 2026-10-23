@@ -1,5 +1,17 @@
 [
   {
+    "version": "v.1.4.0",
+    "roblox": "version-latest",
+    "date": "Oct 23, 2026",
+    "isNew": true,
+    "items": [
+      "[+] iOS and Android support added",
+      "[+] Launcher updated",
+      "[+] Halloween theme added",
+      "❤️"
+    ]
+  },
+  {
     "version": "v.1.3.2",
     "roblox": "version-latest",
     "date": "Oct 11, 2026",
